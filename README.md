@@ -1,6 +1,8 @@
-# Persei-δ-B5III
+# 天船五 (Persei-δ-B5III)
 
 <div align="center">
+
+**简体中文** | [English](./README_EN.md)
 
 ![Platform](https://img.shields.io/badge/Platform-Windows%2010%2B%20%7C%20x64-0078D6?style=flat-square&logo=windows)
 ![.NET Version](https://img.shields.io/badge/.NET-10.0%20(WinUI%203)-512BD4?style=flat-square&logo=dotnet)
